@@ -1,0 +1,59 @@
+
+
+1-index. This is a tribute page about darksynth bands for lovers of this genre,
+nostalgic and scary music based on terror movies of the 80's for turn on at night
+-
+information about the page, portadas de albums de carpenter brut, gost, dance with
+the dead, neoslave, 
+-Historia
+
+
+2-BANDS: The main references on this genre
+
+
+3-ALBUMS: 2-CTlogo de vinilos, cds y digital albums refers to amazon and bandcamp
+
+
+4-contact. A form to directly contact my email
+
+
+
+
+4-blog-curiosidades-historia-top bands etc
+
+1-radio
+	A dark synth radio for lovers of this genre, nostalgic and scary music based on terror
+movies of the 80's for turn on at night
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>History</title>
+    <link rel="stylesheet" href="stylo.css"/>
+</head>
+<body id="background__history">
+    <section>Menu</p>
+        <ul>
+            <li>
+                <a href="index.html">Home</a>
+                <a href="bands.html">BANDS</a>
+                <a href="bestAlbums.html">BEST ALBUMS</a>
+                <a href="contact.html">CONTACT</a>
+                <a href="history.html">HISTORY</a>
+            </li>
+        </ul>
+    </section>
+    <footer>
+        <a href="contact.html"> Contact US</a>
+    </footer>
+</body>
+</html>

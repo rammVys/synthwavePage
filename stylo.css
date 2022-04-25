@@ -1,0 +1,176 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+.menu {
+   /* background-image:url('fondoMenu.jpg')*/ 
+    padding-right: 100%;
+}
+
+.contain-showcase{
+    width: 100%;
+    height: 350px;
+    background: url("./img/trio-darksynth.png") no-repeat center center/cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    justify-content: flex-start;
+    color: #fff;
+}
+
+.menu-flex{
+    display: flex;
+    flex-direction: row ;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+/*nav > ul {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}*/
+
+
+
+.list__text{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    list-style: none;
+}
+
+.list-menu{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 20px;
+}
+
+.list-menu li{
+    padding: 20px;
+} 
+
+.list-menu li a:hover{
+    text-shadow: 0 0 5px  #831187, 0 0 15px  #831187, 0 0 30px  #831187, 0 0 50px  #831187;
+}
+
+
+
+a{
+    color: aliceblue;
+    text-decoration: none;
+}
+
+#titulo{
+    font-family: fantasy;
+    color: white;
+    align-content: center;
+    letter-spacing: 2px;
+    word-spacing: 3px;
+    /*background-color: #ff901f;*/
+    width: max-content;
+    height: 50px;
+}
+
+.title--container {
+    display: flex;
+    border: 2px solid white;
+    border-radius: 50px;
+    box-shadow: inset 0 0 5px #ff901f, 0 0 15px #ff901f;
+    margin: auto;
+    padding: 15px;
+    text-align: center;
+}
+
+.subtitle{
+    font-family: monospace;
+    align-content: center;
+    width: max-content;
+    height: 35px;
+    padding-left: 60px;
+    color: white;
+}
+
+.parrafo{
+    font-family: fantasy;
+    color: white;
+    align-content: center;
+    text-align: justify;
+    text-shadow: 0 0 5px  #831187, 0 0 15px  #831187, 0 0 30px  #831187, 0 0 50px  #831187;
+}
+
+#brutImg {
+    width: 80%;
+    height: auto;
+    margin-left: 10%;
+}
+
+
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 25px;
+    margin: 70px 0;
+}
+  
+.grid-container img {
+    width: 100%;
+    height: 180px;
+}
+
+
+
+
+
+#background__contact {
+    background-image:url(img/background1.jpg) ;
+}
+
+#background__index {
+    /*background-image:url(img/background1.jpg) ;*/
+    background: linear-gradient( to bottom, black, #29132e);
+}
+
+#background__history {
+    background-image:url(img/background1.jpg);
+}
+
+#background__bestAlbums {
+    background-image:url(img/background1.jpg);
+}
+
+#background__bands {
+    background: linear-gradient( to bottom, black, #29132e);
+}
+
+.tittle--text-neon {
+    color: white;
+    font-size: 30px;
+    text-shadow: 0 0 5px red, 0 0 15px  red, 0 0 30px  red, 0 0 50px red;
+}
+
+.container-footer{
+    background: red;
+    width: 100%;
+    height: 100px;
+}
+
+@media (max-width: 700px) {
+    .grid-container {
+        grid-template-columns: repeat(1, 1fr);
+      }
+      #title{
+          padding: 0;
+          width: 100%;
+      }
+      .list-menu li{
+        padding: 5px;
+    } 
+    .list-menu{
+        flex-wrap: wrap;
+    }
+}
