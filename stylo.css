@@ -174,3 +174,10 @@ a{
         flex-wrap: wrap;
     }
 }
+
+/*animacion de imagenes*/
+img:hover{
+    -webkit-transform:scale(0.8);transform:scale(0.8);
+    transition: all 0.5s;
+}
+
