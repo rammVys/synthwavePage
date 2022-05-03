@@ -1,4 +1,44 @@
+cornerston international community college
 
+red river college
+
+fanshewa
+
+algonquin
+
+lambton
+
+preguntar sobre que en st clair college pide aplicar el 15 de septiembre para el inicio en
+enero
+
+
+mi mama, mi tia o yo quien puede recibir el dinero para mayor seguridad
+
+frontend mentor
+koala
+scout-app
+prepos.io
+
+
+
+
+/*animacion de imagenes*/
+img:hover{
+    -webkit-transform:scale(0.8);transform:scale(0.8);
+    transition: all 0.5s;
+}
+
+
+
+
+1
+2
+.contenedor:hover .imagen {-webkit-transform:scale(1.3);transform:scale(1.3);}
+.contenedor {overflow:hidden;}
+
+
+
+/**id="brutImg"**/
 
 1-index. This is a tribute page about darksynth bands for lovers of this genre,
 nostalgic and scary music based on terror movies of the 80's for turn on at night
@@ -16,6 +56,18 @@ the dead, neoslave,
 
 4-contact. A form to directly contact my email
 
+w3schools  css botstrap
+
+
+si quiero viajar para un diplomado, puede ser mi tia quien presente los fondos y quien me va 
+a apoyar con los gastos?
+
+
+Synthwave is an electronic music microgenre that is based on music that is
+                associated with action, science fiction(Sci-fi), and horror film soundtracks during the ’80s.
+
+
+Franck Hueso, better known by his stage name Carpenter Brut, is a French darksynth artist from Poitiers, France. He has released three EPs, EP I (2012), EP II (2013) and EP III (2015) which were collected and released together as the album Trilogy (2015). He later released two additional studio albums, Leather Teeth (2018) and Blood Machines OST (2020), along with one live album, CARPENTERBRUTLIVE (2017). He has also contributed original music to a variety of soundtracks, both for film and video games.
 
 
 
