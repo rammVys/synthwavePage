@@ -150,6 +150,10 @@ article{
         grid-template-columns: auto;
     }
 
+    .content__left--border{
+        border-left: none;
+        box-shadow: none;
+    }
 
 }
 
