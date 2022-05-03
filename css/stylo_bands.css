@@ -92,16 +92,14 @@ a{
 
 article{
     padding: 15px;
+    border-left: 2px solid white;
+    box-shadow: inset 0 0 5px #ff901f, 0 0 15px #ff901f;
 }
 
 .content-left article p{
     color: white;
 }
 
-.content__left--border{
-    border-left: 2px solid white;
-    box-shadow: inset 0 0 5px #ff901f, 0 0 15px #ff901f;
-}
 
 .content-right{
     grid-column: 2/4;
@@ -150,10 +148,6 @@ article{
         grid-template-columns: auto;
     }
 
-    .content__left--border{
-        border-left: none;
-        box-shadow: none;
-    }
 
 }
 
